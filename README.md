@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&hide_values=true&theme=dark_github)
 
 <!--
 **eriicdesousa/eriicdesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
