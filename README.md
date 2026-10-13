@@ -34,6 +34,4 @@ An open-source Python tool engineered for the visual analysis and comparison of 
 
 ### Github Metrics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&layout=compact&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&layout=compact&hide_values=true&theme=dark_github)
-
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=eriicdesousa&layout=compact&langs_count=4&theme=dark_github)
