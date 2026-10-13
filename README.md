@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
 <!--
 **eriicdesousa/eriicdesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
